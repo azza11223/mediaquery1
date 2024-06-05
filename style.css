@@ -1,0 +1,213 @@
+
+
+body{
+    background-image: url(19f74bd464326c89ba412ff16fe9e63e.jpg);
+    width: 469px;
+    height: 832px;
+    background-repeat: no-repeat;
+    position: relative;
+    
+}
+
+.logo{
+    position: absolute;
+    padding-left: 220px;
+    margin-top: 250px;
+    
+}
+    
+p{
+    color: rgba(255, 255, 255, 1);
+   font-weight: 600;
+   font-size: 18px;
+   width: 325px;
+   height: 78px;
+   padding-top: 350px;
+   padding-left: 220px;
+   line-height: 26px;
+
+   
+}
+.container{
+    width: 808px;
+    height: 832px;
+    position: relative;
+   background-color: 
+   rgba(255, 255, 255, 1);
+    margin-left: 350%;
+   
+ 
+
+}
+.box{
+    width: 340px;
+    height: 372px;
+    position: relative;
+    
+}
+.form1{
+    width:190px;
+    height: 25px;
+    position: absolute;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 24.51px;
+    color: 
+    rgba(31, 41, 55, 1);
+}
+.form2{
+    width: 222px;
+    height: 24px;
+    top: 2px;
+color: 
+rgba(107, 114, 128, 1);
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+
+}
+.sign{
+    width: 340px;
+    height: 48px;
+    font-weight: 700;
+    margin-top: 30px;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+    color: rgba(255, 255, 255, 1);
+    background-color: rgba(66, 133, 244, 1);
+    position: relative;
+    
+ 
+
+}
+.google{
+    width: 43px;
+    height: 43px;
+    top: 325%;
+   position: absolute;
+   
+
+}
+.face{
+    width: 47px;
+    height: 48px;
+    position: absolute;
+    margin-left: 293px;
+    top: 325% ;
+   }
+   .email{
+    width: 340px;
+    height: 48px;
+    margin-top: 30%;
+    border-radius: 4px;
+    border: 1px 
+    rgba(229, 231, 235, 1) solid;
+    text-align: center;
+    background-image: url(at.PNG);
+    background-repeat: no-repeat;
+
+   }
+   .email::placeholder{
+    color: rgba(209, 213, 219, 1);
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 22px;
+   }
+   .div1{
+    color: rgba(107, 114, 128, 1);
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 20px;
+    text-align: justify;
+    
+   }
+   a{
+    color: rgba(109, 88, 186, 1);
+   }
+   button{
+    width: 340px;
+    height: 48px;
+    border-radius: 6px;
+    background-color: rgba(114, 77, 255, 1);
+    color: white;
+    margin-top: 15%;
+    border: none;
+   }
+   .div2{ width: 331px;
+    height: 26px;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 26px;
+    text-align: justify;
+    margin-top: 5%;
+    color: 
+    rgba(107, 114, 128, 1)
+
+   }
+   @media screen and (max-width 768 px) {
+    .box{
+        width: 312px;
+        height: 363px;
+        position: relative;
+    }
+    .form1{ 
+        width: 312px;
+        height: 27px;
+        font-weight: 700;
+        font-size: 20px;
+        line-height: 27.24px;
+        text-align: center;
+        color: black;
+
+    }
+    .form2{
+        width: 312px;
+        height: 24px;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 24px;
+        text-align: center;
+        color: rgba(107, 114, 128, 1);
+
+    }
+    .sign{
+        width: 312px;
+        height: 48px;
+        font-weight: 700;
+        font-size: 16px;
+        line-height: 26px;
+        text-align: center;
+        color: white;
+    }
+    .google{
+        width: 43px;
+        height: 43px;
+        position: absolute;
+    }
+    .face{
+        width: 43px;
+        height: 43px;
+
+    }
+    .email{
+        width: 312px;
+        height: 48px;
+        border-radius: 50px;
+        border: 1px rgba(229, 231, 235, 1);
+        color: 
+        rgba(255, 255, 255, 1);
+    }
+    .email::placeholder{
+        color: rgba(209, 213, 219, 1);
+        font-size: 14px;
+        font-weight: 600;
+        line-height: 22px;
+        
+    }
+
+    
+   } 
+
+    
+   
